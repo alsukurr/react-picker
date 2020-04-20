@@ -417,7 +417,7 @@ export const movies = [
     id: 'tt0112573',
   },
   {
-    title: 'Bridges of Madison County',
+    title: 'The Bridges of Madison County',
     rank: '84',
     id: 'tt0119488',
   },
