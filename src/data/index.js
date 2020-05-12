@@ -2,403 +2,382 @@
 export const movies = [
   {
     title: 'The Shawshank Redemption',
-    id: 'tt0111161',
+    id: 11161,
   },
   {
     title: 'The Godfather',
-    id: 'tt0068646',
+    id: 68646,
   },
   {
     title: 'The Godfather: Part II',
-    id: 'tt0071562',
+    id: 71562,
   },
   {
     title: 'Pulp Fiction',
-    id: 'tt0110912',
+    id: 10912,
   },
   {
     title: 'The Good, the Bad and the Ugly',
-    id: 'tt0060196',
+    id: 60196,
   },
   {
     title: 'The Dark Knight',
-    id: 'tt0468569',
+    id: 68569,
   },
   {
     title: '12 Angry Men',
-    id: 'tt0050083',
+    id: 50083,
   },
   {
     title: "Schindler's List",
-    id: 'tt0108052',
+    id: 108052,
   },
   {
-    title: 'The Lord of the Rings: The Return of the King',
-    id: 'tt0167260',
+    title: 'The Lord of the Rings',
+    id: 67260,
   },
   {
     title: 'Fight Club',
-    id: 'tt0137523',
-  },
-  {
-    title: 'Star Wars: Episode V - The Empire Strikes Back',
-    id: 'tt0080684',
-  },
-  {
-    title: 'The Lord of the Rings: The Fellowship of the Ring',
-    id: 'tt0120737',
+    id: 37523,
   },
   {
     title: "One Flew Over the Cuckoo's Nest",
-    id: 'tt0073486',
+    id: 73486,
   },
   {
     title: 'Inception',
-    id: 'tt1375666',
+    id: 75666,
   },
   {
     title: 'Goodfellas',
-    id: 'tt0099685',
+    id: 99685,
   },
   {
     title: 'Star Wars',
-    id: 'tt0076759',
+    id: 76759,
   },
   {
     title: 'Seven Samurai',
-    id: 'tt0047478',
+    id: 47478,
   },
   {
     title: 'Forrest Gump',
-    id: 'tt0109830',
+    id: 209830,
   },
   {
     title: 'The Matrix',
-    id: 'tt0133093',
-  },
-  {
-    title: 'The Lord of the Rings: The Two Towers',
-    id: 'tt0167261',
+    id: 33093,
   },
   {
     title: 'City of God',
-    id: 'tt0317248',
+    id: 17248,
   },
   {
     title: 'Se7en',
-    id: 'tt0114369',
+    id: 14369,
   },
   {
     title: 'The Silence of the Lambs',
-    id: 'tt0102926',
+    id: 302926,
   },
   {
     title: 'Once Upon a Time in the West',
-    id: 'tt0064116',
+    id: 64116,
   },
   {
     title: 'Casablanca',
-    id: 'tt0034583',
+    id: 34583,
   },
   {
     title: 'The Usual Suspects',
-    id: 'tt0114814',
+    id: 14814,
   },
   {
     title: 'Raiders of the Lost Ark',
-    id: 'tt0082971',
+    id: 82971,
   },
   {
     title: 'Rear Window',
-    id: 'tt0047396',
+    id: 47396,
   },
   {
     title: "It's a Wonderful Life",
-    id: 'tt0038650',
+    id: 38650,
   },
   {
     title: 'Psycho',
-    id: 'tt0054215',
+    id: 54215,
   },
   {
     title: 'Léon: The Professional',
-    id: 'tt0110413',
+    id: 10413,
   },
   {
     title: 'Sunset Blvd.',
-    id: 'tt0043014',
+    id: 43014,
   },
   {
     title: 'American History X',
-    id: 'tt0120586',
+    id: 20586,
   },
   {
     title: 'Apocalypse Now',
-    id: 'tt0078788',
+    id: 78788,
   },
   {
     title: 'Terminator 2: Judgment Day',
-    id: 'tt0103064',
+    id: 403064,
   },
   {
     title: 'Saving Private Ryan',
-    id: 'tt0120815',
+    id: 20815,
   },
   {
     title: 'Memento',
-    id: 'tt0209144',
+    id: 509144,
   },
   {
     title: 'City Lights',
-    id: 'tt0021749',
-  },
-  {
-    title:
-      'Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb',
-    id: 'tt0057012',
+    id: 21749,
   },
   {
     title: 'Alien',
-    id: 'tt0078748',
+    id: 78748,
   },
   {
     title: 'Modern Times',
-    id: 'tt0027977',
+    id: 27977,
   },
   {
     title: 'Spirited Away',
-    id: 'tt0245429',
+    id: 45429,
   },
   {
     title: 'North by Northwest',
-    id: 'tt0053125',
+    id: 53125,
   },
   {
     title: 'Back to the Future',
-    id: 'tt0088763',
+    id: 88763,
   },
   {
     title: 'Life Is Beautiful',
-    id: 'tt0118799',
+    id: 18799,
   },
   {
     title: 'The Shining',
-    id: 'tt0081505',
+    id: 81505,
   },
   {
     title: 'The Pianist',
-    id: 'tt0253474',
+    id: 53474,
   },
   {
     title: 'Citizen Kane',
-    id: 'tt0033467',
+    id: 33467,
   },
   {
     title: 'The Departed',
-    id: 'tt0407887',
+    id: 607887,
   },
   {
     title: 'M',
-    id: 'tt0022100',
+    id: 22100,
   },
   {
     title: 'Paths of Glory',
-    id: 'tt0050825',
+    id: 50825,
   },
   {
     title: 'Vertigo',
-    id: 'tt0052357',
+    id: 52357,
   },
   {
     title: 'Django Unchained',
-    id: 'tt1853728',
+    id: 53728,
   },
   {
     title: 'Double Indemnity',
-    id: 'tt0036775',
+    id: 36775,
   },
   {
     title: 'The Dark Knight Rises',
-    id: 'tt1345836',
+    id: 45836,
   },
   {
     title: 'Aliens',
-    id: 'tt0090605',
+    id: 90605,
   },
   {
     title: 'Taxi Driver',
-    id: 'tt0075314',
+    id: 75314,
   },
   {
     title: 'American Beauty',
-    id: 'tt0169547',
+    id: 69547,
   },
   {
     title: 'The Green Mile',
-    id: 'tt0120689',
+    id: 20689,
   },
   {
     title: 'Gladiator',
-    id: 'tt0172495',
+    id: 72495,
   },
   {
     title: 'The Intouchables',
-    id: 'tt1675434',
+    id: 75434,
   },
   {
     title: 'WALL·E',
-    id: 'tt0910970',
+    id: 10970,
   },
   {
     title: 'The Lives of Others',
-    id: 'tt0405094',
+    id: 805094,
   },
   {
     title: 'Toy Story 3',
-    id: 'tt0435761',
+    id: 35761,
   },
   {
     title: 'The Great Dictator',
-    id: 'tt0032553',
+    id: 32553,
   },
   {
     title: 'The Prestige',
-    id: 'tt0482571',
+    id: 82571,
   },
   {
     title: 'A Clockwork Orange',
-    id: 'tt0066921',
+    id: 66921,
   },
   {
     title: 'Lawrence of Arabia',
-    id: 'tt0056172',
+    id: 56172,
   },
   {
     title: 'Amélie',
-    id: 'tt0211915',
+    id: 11915,
   },
   {
     title: 'To Kill a Mockingbird',
-    id: 'tt0056592',
+    id: 56592,
   },
   {
     title: 'Reservoir Dogs',
-    id: 'tt0105236',
+    id: 905236,
   },
   {
     title: 'Das Boot',
-    id: 'tt0082096',
+    id: 82096,
   },
   {
     title: 'The Lion King',
-    id: 'tt0110357',
+    id: 10357,
   },
   {
     title: 'Cinema Paradiso',
-    id: 'tt0095765',
-  },
-  {
-    title: 'Star Wars: Episode VI - Return of the Jedi',
-    id: 'tt0086190',
+    id: 95765,
   },
   {
     title: 'The Treasure of the Sierra Madre',
-    id: 'tt0040897',
+    id: 40897,
   },
   {
     title: 'The Third Man',
-    id: 'tt0041959',
+    id: 41959,
   },
   {
     title: 'Once Upon a Time in America',
-    id: 'tt0087843',
+    id: 87843,
   },
   {
     title: 'Requiem for a Dream',
-    id: 'tt0180093',
+    id: 80093,
   },
   {
     title: 'Eternal Sunshine of the Spotless Mind',
-    id: 'tt0338013',
+    id: 38013,
   },
   {
     title: 'Full Metal Jacket',
-    id: 'tt0093058',
+    id: 93058,
   },
   {
     title: 'Oldboy',
-    id: 'tt0364569',
+    id: 64569,
   },
   {
     title: 'Braveheart',
-    id: 'tt0112573',
+    id: 12573,
   },
   {
-    title: 'The Bridges of Madison County',
-    id: 'tt0119488',
+    title: 'The gesof adison County',
+    id: 19488,
   },
   {
     title: 'Bicycle Thieves',
-    id: 'tt0040522',
+    id: 40522,
   },
   {
     title: 'Chinatown',
-    id: 'tt0071315',
+    id: 71315,
   },
   {
     title: "Singin' in the Rain",
-    id: 'tt0045152',
+    id: 45152,
   },
   {
     title: 'Princess Mononoke',
-    id: 'tt0119698',
+    id: 19698,
   },
   {
     title: 'Monty Python and the Holy Grail',
-    id: 'tt0071853',
+    id: 71853,
   },
   {
     title: 'Metropolis',
-    id: 'tt0017136',
+    id: 17136,
   },
   {
     title: 'Rashomon',
-    id: 'tt0042876',
+    id: 42876,
   },
   {
     title: 'Some Like It Hot',
-    id: 'tt0053291',
+    id: 53291,
   },
   {
     title: 'Amadeus',
-    id: 'tt0086879',
+    id: 86879,
   },
   {
     title: '2001: A Space Odyssey',
-    id: 'tt0062622',
+    id: 62622,
   },
   {
     title: 'All About Eve',
-    id: 'tt0042192',
+    id: 42192,
   },
   {
     title: 'Witness for the Prosecution',
-    id: 'tt0051201',
+    id: 51201,
   },
   {
     title: 'The Sting',
-    id: 'tt0070735',
+    id: 70735,
   },
   {
     title: 'The Apartment',
-    id: 'tt0053604',
+    id: 53604,
   },
   {
     title: 'Grave of the Fireflies',
-    id: 'tt0095327',
+    id: 95327,
   },
   {
     title: 'Indiana Jones and the Last Crusade',
-    id: 'tt0097576',
+    id: 97576,
   },
 ];
